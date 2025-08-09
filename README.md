@@ -2,6 +2,8 @@
 
 A collection of small to professional Rust programs for learning and practice.
 
+## To access all files
+Click on `src/bin`
 ## Prerequisites
 
 Make sure you have Rust installed. If not, install it via:
