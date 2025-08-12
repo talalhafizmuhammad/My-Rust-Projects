@@ -1,4 +1,4 @@
-# My Rust Projects
+# My Rust PlayGround---Let's get RUSTY!
 
 A collection of small to professional Rust programs for learning and practice.
 
